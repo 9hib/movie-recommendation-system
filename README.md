@@ -1,9 +1,7 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+🎬 Collaborative Movie Recommender
 
 Description of the app ...
+Movie Recommendation System built with Python, Streamlit, and Surprise using collaborative filtering. The app allows users to select a movie and receive personalized recommendations based on user ratings, demonstrating item-based similarity and modern ML workflows.
 
 ## Demo App
 
