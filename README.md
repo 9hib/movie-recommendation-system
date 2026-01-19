@@ -5,7 +5,7 @@ Movie Recommendation System built with Python, Streamlit, and Surprise using col
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://movie-recommendation-system.streamlit.app/)
 
 ## GitHub Codespaces
 
